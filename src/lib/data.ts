@@ -11,13 +11,13 @@ export const links: Array<Link> = [
     name: "Website",
     desc: "Go back to main website",
     icon: "fa-solid fa-globe",
-    link: "https://github.com/tinarskii"
+    link: "https://www.tinarskii.com/"
   },
   {
     name: "Journey of Tinarskii",
     desc: "My HashNode blog, where I write about my journey as a developer",
     icon: "fa-solid fa-newspaper",
-    link: "https://github.com/tinarskii"
+    link: "https://journey.tinarskii.com/"
   },
   {
     name: "GitHub",
